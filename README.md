@@ -1,2 +1,2 @@
-# Linear-Regression
-Linear regression is the basic supervised machine algorithm.
+# Regression
+Regression is the supervised machine learning algorithm.
